@@ -79,7 +79,7 @@ gitdb==4.0.11
 GitPython==3.1.41
 google-auth==2.27.0
 googleapis-common-protos==1.62.0
-gpt-engineer==0.0.3
+gpt-engineer
 gradio==3.39.0
 gradio_client==0.3.0
 greenlet==2.0.2
