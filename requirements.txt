@@ -1,0 +1,14 @@
+chromadb
+ctransformers
+hvplot
+langchain-experimental
+langchain
+matplotlib
+numexpr
+openai==1.0.0
+panel==1.3.6
+plotly
+pypdf
+tabulate
+tiktoken
+
