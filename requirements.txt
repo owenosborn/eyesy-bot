@@ -2,3 +2,4 @@ panel
 hvplot
 scikit-learn
 nbconvert
+openai==1.0.0
