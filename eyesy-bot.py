@@ -125,7 +125,7 @@ stylesheet = """
 """
 db_stylesheet = """
 :host(.bk-panel-models-widgets-FileDownload) .bk-btn {
-    padding: 2px;
+    padding: 8px;
 }
 """
 
