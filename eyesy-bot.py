@@ -154,5 +154,5 @@ pn.config.raw_css.append(stylesheet)
 
 dashboard = pn.Column(chat_interface, button_row)
 
-dashboard.servable()
+dashboard.servable(title="EYESY Bot")
 
