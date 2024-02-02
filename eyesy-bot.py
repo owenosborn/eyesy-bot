@@ -155,13 +155,13 @@ db_stylesheet = """
 
 download_button = pn.widgets.FileDownload(
     callback=generate_json, 
-    label="Download Chat", 
+    label="Download", 
     filename="chat.json", 
     stylesheets=[db_stylesheet]
 )
 
 upload_button = pn.widgets.FileInput(accept='.json')
-process_button = pn.widgets.Button(name='Upload Chat')
+process_button = pn.widgets.Button(name='Upload')
 
 clear_button.on_click(clear_chat)
 process_button.on_click(process_upload)
